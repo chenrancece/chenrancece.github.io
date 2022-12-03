@@ -1,0 +1,114 @@
+﻿[	
+	{
+		"type": "Journal publication",
+		"work_type": "Journal publication",
+		"id": 1,
+		"order": 1, 
+		"title": "Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles",
+		"authors": [
+			{
+				"name": "Tony Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Yuancheng Zhu"
+			}
+		],
+		"year": 2021,
+		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		"citation_url": "https://ran-chen.com/docs/CCZ_Convex-Minimum-Minimizer.pdf",
+		"source": "Annals of Statistics (under review)",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics,"
+			},
+			{
+				"topic": "Optimization"
+			}
+		],
+		"abstract": "Optimal estimation and inference for both the minimizer and minimum of a convex regression function under the white noise and nonparametric regression models are studied in a non-asymptotic lo- cal minimax framework, where the performance of a procedure is eval- uated at individual functions. Fully adaptive and computationally efficient algorithms are proposed and sharp minimax lower bounds are given for both the estimation accuracy and expected length of confidence intervals for the minimizer and minimum. The non-asymptotic local minimax framework brings out new phe- nomena in simultaneous estimation and inference for the minimizer and minimum. We establish a novel Uncertainty Principle that pro- vides a fundamental limit on how well the minimizer and minimum can be estimated simultaneously for any convex regression function. A similar result holds for the expected length of the confidence inter- vals for the minimizer and minimum."
+	},
+	{
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 10,
+		"order": 1, 
+		"title": "High-dimensional Continuum Armed and High-dimensional Contextual Bandit: with Applications to Assortment and Pricing",
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Martin Wainwright"
+			},
+			{
+				"name": "Linda Zhao"
+			}
+		],
+		"year": 2022,
+		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		"citation_url": "https://ran-chen.com/docs/CCWZ_HiCCOB.pdf",
+		// "source": "",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics,"
+			},
+			{
+				"topic": "Reinforcement learning"
+			},
+			{
+				"topic": "Assortment and pricing"
+			},
+			{
+				"topic": "Bandit"
+			}
+		],
+		"abstract": "The bandit problem with high-dimensional continuum arms and high-dimensional contextual covariates is often faced by decision-makers but remains unsolved. Recent developments in contextual bandit problems focus on the setting where the number of arms are small but are impracticable with high-dimensional continuous arm spaces. To bridge the gap, we propose a novel model for the high-dimensional continuum armed and high-dimensional contextual bandit problem that captures the effect of the arm and covariates on the reward via a low-rank representation matrix. The representation matrix is endowed with interpretability and predictive power. We further propose an efficient bandit algorithm based on a low-rank matrix estimator with theoretical justifications. The generality of our model allows wide applications including business and healthcare. In particular, we apply our method to assortment and pricing, both of which are important decisions for firms such as online retailers. Our method can solve the assortment-pricing problem simultaneously while most existing methods address them separately. We demonstrate the effectiveness of our method to jointly optimize assortment and pricing for revenue maximization for a giant online retailer."
+	},
+	{
+		"type": "Working paper",
+		"work_type": "Working paper",
+		"id": 11,
+		"order": 1, 
+		"title": "Personalized reinforcement learing",
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Martin Wainwright"
+			},
+			{
+				"name": "Linda Zhao"
+			}
+		],
+		"year": 2023,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics,"
+			},
+			{
+				"topic": "Reinforcement learning"
+			},
+			{
+				"topic": "Personalization"
+			}
+		],
+		"abstract": ""
+	}
+
+]

@@ -1,0 +1,14 @@
+[	
+	{
+		"id": 1,
+		"title": "xxx",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2021,
+				"meeting": "Young Scholars Conference on Machine Learning in Economics and Finance",
+				"place": "Federal Reserve Bank of Philadelphia"
+			}
+		]
+	}
+]
