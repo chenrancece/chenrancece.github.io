@@ -66,12 +66,12 @@ nav_order: 2
         <h5 class="card-subtitle mb-2 text-muted pb-1"> 
           {% for author in paper.authors %}
             {% if forloop.index < paper.authors.size %} 
-              {% if author.name == 'Junhui Cai' %}
+              {% if author.name == 'Ran Chen' %}
                 <b>{{ author.name }}</b>,
               {% else %} {{ author.name }},
               {% endif %}
             {% else %} 
-              {% if author.name == 'Junhui Cai' %}
+              {% if author.name == 'Ran Chen' %}
                 <b>{{ author.name }}</b>
               {% else %} {{ author.name }}
               {% endif %}
