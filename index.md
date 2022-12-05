@@ -19,7 +19,9 @@ permalink: /
 				I am a postdoctoral researcher at the <a href="https://lids.mit.edu/">Laboratory for Information & Decision</a> <a href="https://lids.mit.edu/"> Systems</a> at Massachusetts Institute of Technology, working with Professor <a href="https://people.eecs.berkeley.edu/~wainwrig/">Martin J. Wainwright</a>. My research interest lies in optimization and reinforcement learning for data-driven decision making, in terms of both the theorectical aspect and applications in business and health care.
 			</p>	
 			<p class="text-justify">
-				I obtained my Ph.D. degree from the <a href="https://statistics.wharton.upenn.edu">Statistics and Data Science</a> <a href="https://statistics.wharton.upenn.edu">Department</a> at the Wharton School of the University of Pennsylvania under the supervision of <a href="http://www-stat.wharton.upenn.edu/~tcai/">Tony Cai</a>. Previously, I graduated from Tsinghua University with a B.S. in Pure and Applied Mathematics.
+				I obtained my Ph.D. degree from the <a href="https://statistics.wharton.upenn.edu">Statistics and Data Science</a> <a href="https://statistics.wharton.upenn.edu">Department</a> at the Wharton School of the University of Pennsylvania.
+#, under the supervision of <a href="http://www-stat.wharton.upenn.edu/~tcai/">Tony Cai</a>. 
+Previously, I graduated from Tsinghua University with a B.S. in Pure and Applied Mathematics.
 			</p>
 		</div>
 	</div>
