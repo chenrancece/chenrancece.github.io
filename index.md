@@ -16,7 +16,7 @@ permalink: /
 				Welcome to my homepage! 
 			</p>
 			<p class="text-justify">
-				I am a postdoctoral researcher at the <a href="https://lids.mit.edu/">Laboratory for Information & Decision</a> <a href="https://lids.mit.edu/"> Systems</a> at Massachusetts Institute of Technology, working with Professor <a href="https://people.eecs.berkeley.edu/~wainwrig/">Martin J. Wainwright</a>. My research interests include statistical machine learning (including reinforcement learning), high-dimensional statistics, optimization, nonparametric statistics, and causal inference, in terms of theoretical aspect, methodology aspect, and applications to data-driven decision making in business and healthcare. 
+				I am a postdoctoral researcher at the <a href="https://lids.mit.edu/">Laboratory for Information & Decision</a> <a href="https://lids.mit.edu/"> Systems</a> at Massachusetts Institute of Technology, working with Professor <a href="https://people.eecs.berkeley.edu/~wainwrig/">Martin J. Wainwright</a>. My research interests include reinforcement learning, high-dimensional statistics, optimization, and nonparametric statistics, in terms of theoretical aspect, methodology aspect, and applications to data-driven decision making in business and healthcare. 
 <!--- lies in optimization and reinforcement learning for data-driven decision making, in terms of both the theorectical aspect and applications in business and health care. --->
 			</p>	
 			<p class="text-justify">
