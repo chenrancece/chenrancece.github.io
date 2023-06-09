@@ -111,4 +111,33 @@
 		"abstract": ""
 	}
 
-]
+{
+		"type": "Working paper",
+		"work_type": "Working paper",
+		"id": 12,
+		"order":2, 
+		"title": "Interplay Between Statistical Accuracy and Running Time Cost: A Framework and Cases",
+		"authors": [
+			{
+				"name": "Ran Chen"
+			},
+			
+		],
+		"year": 2022,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics,"
+			},
+			{
+				"topic": "Optimization"
+			},
+			{
+				"topic": "Computational Statistical Trade-off"
+			}
+		],
+		"abstract": ""
+	}
