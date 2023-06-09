@@ -41,8 +41,9 @@
 		"talks":[
 				"type": "PhD Dissertation Defense",
 				"time": "2022",
-				"meeting": "PhD Dissertation Defense",
+				{"meeting": "Department of Statistics and Data Science, The Wharton School, University of Pennsylvania",
 				"place": "Philadelphia, PA, USA"
+				}
 			]
 	},
 	{
@@ -61,9 +62,11 @@
 		"id":1,
 		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
 		"talks":[
+			{
 				"time": 2018,
 				"meeting": "Joint Statistical Meeting",
 				"place": "Vancouver, Canada"
+			}
 			]
 	}
 ]
