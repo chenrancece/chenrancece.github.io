@@ -1,14 +1,51 @@
 [	
 	{
 		"id": 1,
-		"title": "xxx",
+		"title": "High-dimensional Continuum Armed and High-dimensional Contextual Bandit: With Applications to Assortment and Pricing",
 		"talks": [
 			{
-				"type": "Invited talk",
-				"time": 2021,
-				"meeting": "Young Scholars Conference on Machine Learning in Economics and Finance",
-				"place": "Federal Reserve Bank of Philadelphia"
+				//"type": "Invited talk",
+				"time": 2023,
+				"meeting": "Informs Business Analytics Conference",
+				"place": "Aurora, CO, USA"
 			}
 		]
+	}
+]
+[
+	{	
+		"id":2,
+		"title": "Statistics, Optimization, and Machine Learning: with Applications in Economics and Business",
+		"talks":[
+			{
+				"time": 2022,
+                                "meeting": "Department of Business Economic and Public Policy, The Wharton School,Upenn",
+                                "place": "Philadelphia, PA, USA"
+			}
+		]
+	}
+[
+	{
+		"id":3,
+		"title": "Crowdsourcing: Beyond Dawid Skene Model, Joint Statistical Meeting 2020, Philadelphia, USA",
+		"talks":[
+			{
+				"time":2020,
+				"meeting":"Joint Statistical Meeting 2020",
+				"place":"Philadelphia, PA, USA"
+			}
+			]
+	
+	}
+]
+[
+	{
+		"id":4,
+		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
+		"talks":[
+				"time":2018,
+                                "meeting":"Joint Statistical Meeting 2018",
+                                "place":"Vancouver, Canada"
+			]
 	}
 ]
