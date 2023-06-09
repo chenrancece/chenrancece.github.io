@@ -47,11 +47,11 @@
 	},
 	{
 		"id":2,
-		"title": "Crowdsourcing: Beyond Dawid Skene Model, Joint Statistical Meeting 2020, Philadelphia, USA",
+		"title": "Crowdsourcing: Beyond Dawid Skene Model",
 		"talks":[
 			{
 				"time": 2020,
-				"meeting": "Joint Statistical Meeting 2020",
+				"meeting": "Joint Statistical Meeting",
 				"place": "Philadelphia, PA, USA"
 			}
 			]
@@ -62,7 +62,7 @@
 		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
 		"talks":[
 				"time": 2018,
-                                "meeting": "Joint Statistical Meeting 2018",
+                                "meeting": "Joint Statistical Meeting",
                                 "place": "Vancouver, Canada"
 			]
 	}
