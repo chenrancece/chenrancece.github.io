@@ -1,13 +1,73 @@
 [	
 	{
-		"id": 1,
-		"title": "xxx",
+		"id": 2,
+		"title": "Crowdsourcing: Beyond Dawid Skene Model",
 		"talks": [
 			{
 				"type": "Invited talk",
-				"time": 2021,
-				"meeting": "Young Scholars Conference on Machine Learning in Economics and Finance",
-				"place": "Federal Reserve Bank of Philadelphia"
+				"time": 2020,
+				"meeting": "Joint Statistical Meeting (JSM)",
+				"place": "Philadelphia"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2018,
+				"meeting": "Joint Statistical Meeting (JSM)",
+				"place": "Vancouver"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Statistics, Optimization, and Machine Learning: with Applications in Economics and Business",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2022,
+				"meeting": "Department of Business Economic and Public Policy, The Wharton School",
+				"place": "Philadelphia"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "High-dimensional Continuum Armed and High-dimensional Contextual Bandit: with Applications to Assortment and Pricing",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2022,
+				"meeting": "Wharton Customer Analytics with Master Kong Food Company",
+				"place": "Philadelphia"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "Personalized Reinforcement Learing",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2023,
+				"meeting": "Joint Statistical Meeting (JSM)",
+				"place": "Toronto"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2023,
+				"meeting": "INFORMS",
+				"place": "Pheonix"
 			}
 		]
 	}

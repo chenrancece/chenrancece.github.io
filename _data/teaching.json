@@ -1,10 +1,64 @@
 [
 	{
-		"title": "STAT 111 - INTRODUCTORY STATISTICS",
+		"title": "Wharton Data Science Academy",
+		"type": "instructor",
+		"time": [
+			{
+				"time": "Summer 2022"
+			}
+		]
+	},
+	{
+		"title": "Introduction to Python for Data Science (OIDD 477/OIDD 777/STAT 777)",
+		"type": "TA",
+		"time": [
+			{
+				"time": "Spring 2022"
+			}
+		]
+	},
+	{
+		"title": "Forecasting Methods for Management (STAT 435/STAT 535/STAT 711)",
+		"type": "TA",
+		"time": [
+			{
+				"time": "Fall 2021"
+			}
+		]
+	},
+	{
+		"title": "Introductory Statistics (STAT 111)",
+		"type": "TA",
+		"time": [
+			{
+				"time": "Spring 2020, Fall 2020, Spring 2021"
+			}
+		]
+	},
+	{
+		"title": "Probability (STAT 430)",
 		"type": "TA",
 		"time": [
 			{
 				"time": "Fall 2019"
+			}
+		]
+	},
+	{
+		"title": "Optimization Methods in Machine Learning (STAT 991, PhD Seminar)",
+		"type": "TA",
+		"time": [
+			{
+				"time": "Spring 2019"
+			}
+		]
+	},
+	{
+		"title": "Introduction to Business Statistics (STAT 101)",
+		"type": "TA",
+		"time": [
+			{
+				"time": "Fall 2018"
 			}
 		]
 	}

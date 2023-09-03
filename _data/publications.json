@@ -1,7 +1,7 @@
 ﻿[	
 	{
-		"type": "Journal publication",
-		"work_type": "Journal publication",
+		"type": "Job market paper",
+		"work_type": "Job market paper",
 		"id": 1,
 		"order": 1, 
 		"title": "Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles",
@@ -16,14 +16,14 @@
 				"name": "Yuancheng Zhu"
 			}
 		],
-		"year": 2021,
+		"year": 2023,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		"citation_url": "https://www.ran-chen.com/docs/CCZ_Convex-Minimum-Minimizer.pdf",
-		"source": "Annals of Statistics (under review)",
+		"source": "Under review at Annals of Statistics",
 		"use": true,
 		"topic":[
 			{
-				"topic": "High-dimensional statistics,"
+				"topic": "High-dimensional statistics"
 			},
 			{
 				"topic": "Optimization"
@@ -32,52 +32,11 @@
 		"abstract": "Optimal estimation and inference for both the minimizer and minimum of a convex regression function under the white noise and nonparametric regression models are studied in a non-asymptotic lo- cal minimax framework, where the performance of a procedure is eval- uated at individual functions. Fully adaptive and computationally efficient algorithms are proposed and sharp minimax lower bounds are given for both the estimation accuracy and expected length of confidence intervals for the minimizer and minimum. The non-asymptotic local minimax framework brings out new phe- nomena in simultaneous estimation and inference for the minimizer and minimum. We establish a novel Uncertainty Principle that pro- vides a fundamental limit on how well the minimizer and minimum can be estimated simultaneously for any convex regression function. A similar result holds for the expected length of the confidence inter- vals for the minimizer and minimum."
 	},
 	{
-		"type": "Preprint",
-		"work_type": "Preprint",
+		"type": "Job market paper",
+		"work_type": "Job market paper",
 		"id": 10,
-		"order": 1, 
-		"title": "High-dimensional Continuum Armed and High-dimensional Contextual Bandit: with Applications to Assortment and Pricing",
-		"authors": [
-			{
-				"name": "Junhui Cai"
-			},
-			{
-				"name": "Ran Chen"
-			},
-			{
-				"name": "Martin Wainwright"
-			},
-			{
-				"name": "Linda Zhao"
-			}
-		],
-		"year": 2022,
-		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
-		"citation_url": "https://www.ran-chen.com/docs/CCWZ_HiCCAB.pdf",
-		// "source": "",
-		"use": true,
-		"topic":[
-			{
-				"topic": "High-dimensional statistics,"
-			},
-			{
-				"topic": "Reinforcement learning"
-			},
-			{
-				"topic": "Assortment and pricing"
-			},
-			{
-				"topic": "Bandit"
-			}
-		],
-		"abstract": "The bandit problem with high-dimensional continuum arms and high-dimensional contextual covariates is often faced by decision-makers but remains unsolved. Recent developments in contextual bandit problems focus on the setting where the number of arms are small but are impracticable with high-dimensional continuous arm spaces. To bridge the gap, we propose a novel model for the high-dimensional continuum armed and high-dimensional contextual bandit problem that captures the effect of the arm and covariates on the reward via a low-rank representation matrix. The representation matrix is endowed with interpretability and predictive power. We further propose an efficient bandit algorithm based on a low-rank matrix estimator with theoretical justifications. The generality of our model allows wide applications including business and healthcare. In particular, we apply our method to assortment and pricing, both of which are important decisions for firms such as online retailers. Our method can solve the assortment-pricing problem simultaneously while most existing methods address them separately. We demonstrate the effectiveness of our method to jointly optimize assortment and pricing for revenue maximization for a giant online retailer."
-	},
-	{
-		"type": "Working paper",
-		"work_type": "Working paper",
-		"id": 11,
-		"order": 1, 
-		"title": "Personalized reinforcement learing",
+		"order": 2, 
+		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
 		"authors": [
 			{
 				"name": "Junhui Cai"
@@ -93,6 +52,167 @@
 			}
 		],
 		"year": 2023,
+		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		"citation_url": "https://www.ran-chen.com/docs/CCWZ_HiCCAB.pdf",
+		"source": "In submission to Management Science",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics"
+			},
+			{
+				"topic": "Reinforcement learning"
+			},
+			{
+				"topic": "Assortment and pricing"
+			},
+			{
+				"topic": "Bandit"
+			}
+		],
+		"abstract": "Key challenges in running a retail business include how to select products to present to consumers (the assortment problem), and how to price products (the pricing problem) to maximize revenue or profit.  Instead of considering these problems in isolation, we propose a joint approach to assortment-pricing based on contextual bandits. Our model is doubly high-dimensional, in that both context vectors and actions allowed to take values in high-dimensional spaces.  In order to circumvent the curse of dimensionality, we propose a simple yet flexible model that captures the interactions between covariates and actions via a (near) low-rank representation matrix.  The resulting class of models is reasonably expressive while remaining interpretable through latent factors, and includes various structured linear bandit and pricing models as particular cases.  We propose a computationally tractable procedure that combines an exploration/exploitation protocol with an efficient low-rank matrix estimator, and we prove bounds on its regret.  Simulation results show that this method has lower regret than state-of-the-art methods applied to various standard bandit and pricing models.  We also illustrate the gains achievable using our method by two case studies on real-world assortment-pricing problems for an industry-leading instant noodles company, and a smaller beauty start-up.   In each case, we show both the gains in revenue achievable by our bandit methods, as well as the interpretability of the latent factor models that are learned."
+	},
+	{
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 10,
+		"order": 2, 
+		"title": "Optimal Estimation and Inference for Minimizer and Minimum of Multivariate Additive Convex Function",
+		"authors": [
+			{
+				"name": "Ran Chen"
+			}
+		],
+		"year": 2022,
+		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		"citation_url": "https://www.ran-chen.com/docs/CCWZ_HiCCAB.pdf",
+		// "source": "",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics"
+			},
+			{
+				"topic": "Optimization"
+			}
+		],
+		"abstract": ""
+	},
+	{
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 10,
+		"order": 3, 
+		"title": "Interplay Between Statistical Accuracy and Running Time Cost: A Framework and Three Cases",
+		"authors": [
+			{
+				"name": "Ran Chen"
+			}
+		],
+		"year": 2022,
+		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		"citation_url": "https://www.ran-chen.com/docs/CCWZ_HiCCAB.pdf",
+		// "source": "",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics"
+			},
+			{
+				"topic": "Optimization"
+			}
+		],
+		"abstract": ""
+	},
+	{
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 10,
+		"order": 4, 
+		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
+		"authors": [
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Hanzhong Liu"
+			}
+		],
+		"year": 2018,
+		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		// "citation_url": "https://www.ran-chen.com/docs/CCWZ_HiCCAB.pdf",
+		// "source": "",
+		"cites_url": "https://arxiv.org/abs/1810.11010",
+		"use": true,
+		"topic":[
+			{
+				"topic": "Causal Inference"
+			},
+			{
+				"topic": "Deep learning"
+			}
+		],
+		"abstract": "Estimating heterogeneous treatment effect is an important task in causal inference with wide application fields. It has also attracted increasing attention from machine learning community in recent years. In this work, we reinterpret the heterogeneous treatment effect estimation and propose ways to borrow strength from neural networks. We analyze the strengths and drawbacks of integrating neural networks into heterogeneous treatment effect estimation and clarify the aspects that need to be taken into consideration when designing a specific network. We proposed a specific network under our guidelines. In simulations, we show that our network performs better when the structure of data is complex, and reach a draw under the cases where other methods could be proved to be optimal."
+	},
+	{
+		"type": "Working paper",
+		"work_type": "Working paper",
+		"id": 11,
+		"order": 31, 
+		"title": "Personalized Reinforcement Learing",
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Martin Wainwright"
+			},
+			{
+				"name": "Linda Zhao"
+			}
+		],
+		"year": 2023,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "High-dimensional statistics,"
+			},
+			{
+				"topic": "Reinforcement learning"
+			},
+			{
+				"topic": "Personalization"
+			}
+		],
+		"abstract": ""
+	},
+	{
+		"type": "Working paper",
+		"work_type": "Working paper",
+		"id": 11,
+		"order": 32, 
+		"title": "Crowdsourcing: Beyond Dawid-Skene Model",
+		"authors": [
+			{
+				"name": "Tony Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Martin Wainwright"
+			},
+			{
+				"name": "Linda Zhao"
+			}
+		],
+		"year": 2020,
 		// "source": "",
 		// "citation_url": "",
 		// "cites_url": "https://arxiv.org/abs/2111.12921",

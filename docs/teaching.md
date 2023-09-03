@@ -4,12 +4,11 @@ title: Teaching
 nav_order: 4
 ---
 
-## Teaching
+## Teaching fellow
 {: .no_toc }
 
 
 
-<!-- 
 {% assign courses = site.data.teaching | where:"type","instructor" %}
 {% for course in courses %}
 {% assign course = course_hash[1] %}
@@ -29,11 +28,11 @@ nav_order: 4
 </div>
 </div>
 
-{% endfor %} -->
+{% endfor %}
 
-<!-- <br>  -->
+<br> 
 
-<!-- ## TA
+## Teaching assistant
 {: .no_toc }
 
 {% assign courses = site.data.teaching | where:"type","TA" %}
@@ -57,4 +56,4 @@ nav_order: 4
   {% endif %}
 </div>
 </div>
-{% endfor %} -->
+{% endfor %} 
