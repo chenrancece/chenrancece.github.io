@@ -66,9 +66,67 @@
 			{
 				"type": "Invited talk",
 				"time": 2023,
-				"meeting": "INFORMS",
-				"place": "Pheonix"
+				"meeting": "Informs Business Analytics Conference",
+				"place": "Aurora, CO, USA"
 			}
 		]
+	},
+	{
+		"id":5,
+		"title": "High-dimensional Continuum Armed and High-dimensional Contextual Bandit: With Applications to Assortment and Pricing",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2022,
+				"meeting": "Wharton Customer Analytics with Master Kong Food Company",
+				"place": "Philadelphia, PA, USA"
+			}
+		]
+	},
+	{	
+		"id":4,
+		"title": "Statistics, Optimization, and Machine Learning: with Applications in Economics and Business",
+		"talks":[
+			{
+				"type": "Invited talk",
+				"time": 2022,
+                                "meeting": "Department of Business Economic and Public Policy, The Wharton School, Upenn",
+                                "place": "Philadelphia, PA, USA"
+			}
+		]
+	},
+	{
+		"id":3,
+		"title": "Estimation and Inference for Convex Functions and Computational Efficiency in High Dimensional Statistics",
+		"talks":[
+				"type": "PhD Dissertation Defense",
+				"time": "2022",
+				{"meeting": "Department of Statistics and Data Science, The Wharton School, University of Pennsylvania",
+				"place": "Philadelphia, PA, USA"
+				}
+			]
+	},
+	{
+		"id":2,
+		"title": "Crowdsourcing: Beyond Dawid Skene Model",
+		"talks":[
+			{
+				"time": 2020,
+				"meeting": "Joint Statistical Meeting",
+				"place": "Philadelphia, PA, USA"
+			}
+			]
+	
+	},
+	{
+		"id":1,
+		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
+		"talks":[
+			{
+				"time": 2018,
+				"meeting": "Joint Statistical Meeting",
+				"place": "Vancouver, Canada"
+			}
+			]
 	}
 ]
