@@ -1,54 +1,18 @@
 [	
 	{
-		"id": 2,
-		"title": "Crowdsourcing: Beyond Dawid Skene Model",
+		"id": 10,
+		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
 		"talks": [
 			{
 				"type": "Invited talk",
-				"time": 2020,
-				"meeting": "Joint Statistical Meeting (JSM)",
-				"place": "Philadelphia"
+				"time": 2023,
+				"meeting": "INFOMRS",
+				"place": "Pheonix"
 			}
 		]
 	},
 	{
-		"id": 1,
-		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
-		"talks": [
-			{
-				"type": "Invited talk",
-				"time": 2018,
-				"meeting": "Joint Statistical Meeting (JSM)",
-				"place": "Vancouver"
-			}
-		]
-	},
-	{
-		"id": 3,
-		"title": "Statistics, Optimization, and Machine Learning: with Applications in Economics and Business",
-		"talks": [
-			{
-				"type": "Invited talk",
-				"time": 2022,
-				"meeting": "Department of Business Economic and Public Policy, The Wharton School",
-				"place": "Philadelphia"
-			}
-		]
-	},
-	{
-		"id": 4,
-		"title": "High-dimensional Continuum Armed and High-dimensional Contextual Bandit: with Applications to Assortment and Pricing",
-		"talks": [
-			{
-				"type": "Invited talk",
-				"time": 2022,
-				"meeting": "Wharton Customer Analytics with Master Kong Food Company",
-				"place": "Philadelphia"
-			}
-		]
-	},
-	{
-		"id": 5,
+		"id": 9,
 		"title": "Personalized Reinforcement Learing",
 		"talks": [
 			{
@@ -60,7 +24,7 @@
 		]
 	},
 	{
-		"id": 6,
+		"id": 8,
 		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
 		"talks": [
 			{
@@ -68,6 +32,18 @@
 				"time": 2023,
 				"meeting": "Informs Business Analytics Conference",
 				"place": "Aurora, CO, USA"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"title": "Statistics, Optimization, and Machine Learning: with Applications in Economics and Business",
+		"talks": [
+			{
+				"type": "Invited talk",
+				"time": 2022,
+				"meeting": "Department of Business Economic and Public Policy, The Wharton School",
+				"place": "Philadelphia"
 			}
 		]
 	},
@@ -99,9 +75,9 @@
 		"id":3,
 		"title": "Estimation and Inference for Convex Functions and Computational Efficiency in High Dimensional Statistics",
 		"talks":[
-				"type": "PhD Dissertation Defense",
+				{"type": "PhD Dissertation Defense",
 				"time": "2022",
-				{"meeting": "Department of Statistics and Data Science, The Wharton School, University of Pennsylvania",
+				"meeting": "Department of Statistics and Data Science, The Wharton School, University of Pennsylvania",
 				"place": "Philadelphia, PA, USA"
 				}
 			]
@@ -123,6 +99,7 @@
 		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
 		"talks":[
 			{
+				"type": "Invited talk",
 				"time": 2018,
 				"meeting": "Joint Statistical Meeting",
 				"place": "Vancouver, Canada"
