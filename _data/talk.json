@@ -7,7 +7,7 @@
 				"type": "Invited talk",
 				"time": 2023,
 				"meeting": "INFOMRS",
-				"place": "Pheonix"
+				"place": "Pheonix, AZ, USA"
 			}
 		]
 	},
@@ -19,7 +19,7 @@
 				"type": "Invited talk",
 				"time": 2023,
 				"meeting": "Joint Statistical Meeting (JSM)",
-				"place": "Toronto"
+				"place": "Toronto, Canada"
 			}
 		]
 	},
@@ -32,18 +32,6 @@
 				"time": 2023,
 				"meeting": "Informs Business Analytics Conference",
 				"place": "Aurora, CO, USA"
-			}
-		]
-	},
-	{
-		"id": 7,
-		"title": "Statistics, Optimization, and Machine Learning: with Applications in Economics and Business",
-		"talks": [
-			{
-				"type": "Invited talk",
-				"time": 2022,
-				"meeting": "Department of Business Economic and Public Policy, The Wharton School",
-				"place": "Philadelphia"
 			}
 		]
 	},
@@ -66,7 +54,7 @@
 			{
 				"type": "Invited talk",
 				"time": 2022,
-                                "meeting": "Department of Business Economic and Public Policy, The Wharton School, Upenn",
+                                "meeting": "Department of Business Economic and Public Policy, The Wharton School",
                                 "place": "Philadelphia, PA, USA"
 			}
 		]
