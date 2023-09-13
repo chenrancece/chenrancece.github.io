@@ -87,7 +87,7 @@
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		// "source": "",
-		"citation_url": "https://www.ran-chen.com/docs/Convex_minmax_Multivatiate_AOS.pdf"
+		"citation_url": "https://www.ran-chen.com/docs/Convex_minmax_Multivatiate_AOS.pdf",
 		"use": true,
 		"topic":[
 			{
@@ -114,7 +114,7 @@
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		// "source": "",
-		"citation_url": "https://www.ran-chen.com/docs/Convex_minimax_Multivatiate_AOS.pdf"
+		"citation_url": "https://www.ran-chen.com/docs/Convex_minimax_Multivatiate_AOS.pdf",
 		"use": true,
 		"topic":[
 			{
