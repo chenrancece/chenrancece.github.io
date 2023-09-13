@@ -53,8 +53,8 @@
 		],
 		"year": 2023,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
-		"citation_url": "https://www.ran-chen.com/docs/CCWZ_HiCCAB.pdf",
-		"source": "In submission to Management Science",
+		"citation_url": "https://www.ran-chen.com/docs/Assortment_Pricing_MS_Arxiv.pdf",
+		"source": "Submitted to Management Science",
 		"use": true,
 		"topic":[
 			{
@@ -85,8 +85,9 @@
 		],
 		"year": 2022,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
-		"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
+		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		// "source": "",
+		"citation_url": "https://www.ran-chen.com/docs/Convex_minmax_Multivatiate_AOS.pdf"
 		"use": true,
 		"topic":[
 			{
@@ -111,8 +112,9 @@
 		],
 		"year": 2022,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
-		"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
+		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		// "source": "",
+		"citation_url": "https://www.ran-chen.com/docs/Convex_minimax_Multivatiate_AOS.pdf"
 		"use": true,
 		"topic":[
 			{
