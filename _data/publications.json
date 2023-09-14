@@ -114,7 +114,7 @@
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		// "source": "",
-		"citation_url": "https://www.ran-chen.com/docs/Computational_Statistical_Accuracy_OR",
+		"citation_url": "https://www.ran-chen.com/docs/Computational_Statistical_Accuracy_OR.pdf",
 		"use": true,
 		"topic":[
 			{
@@ -124,7 +124,7 @@
 				"topic": "Optimization"
 			}
 		],
-		"abstract": ""
+		"abstract": "The popularity of iterative algorithms and the exploding availability of large data sets make the computational cost, in addition to statistical accuracy, an increasingly important concern in statistics and data science. In this paper, we propose a constructive framework that includes a theoretically solid fully implementable optimization method and gives precise quantification of how the running time influences the statistical accuracy. Our framework takes a new perspective on optimization-error-induced-statistical-error: we focus on approximated optimization problem rather than approximated solution. We show that this is more essential way to characterize optimization-statistical interplay. We showcase the power of our framework in three cases: 1-bit matrix completion and causal inference for panel data, and high-dimensional sparse linear regression. Our framework (a) filling in the blank of both theoretically guaranteed optimization algorithm and precise quantification of running-time’s influence on statistical accuracy for the first two cases; and (b) showing its adaptivity to the degenerate case with simpler setting and stronger assumptions — high-dimensional sparse linear regression. In addition, we provide a sharper statistical rate for the example of causal inference for panel data when the computational resource is assumed to be infinite."
 	},
 	{
 		"type": "Preprint",
