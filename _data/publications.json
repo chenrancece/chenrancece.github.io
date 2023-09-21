@@ -22,11 +22,32 @@
 		"use": true,
 		"topic":[
 			{
-				"topic": "High-dimensional statistics"
+				"topic": "Adaptivity" 
 			},
 			{
-				"topic": "Optimization"
-			}
+				"topic": "Confidence interval"
+			},
+			{      
+			       	"topic": "Nonparametric regression"
+                        },
+			{       
+				"topic": "Minimax optimality"
+                        },
+			{
+			 	"topic": "Modulus of continuity"
+                        },
+			{
+			 	"topic":  "Uncertainty principle"
+                        },
+			{
+			 	"topic": "White noise model"
+                        }
+	//		{
+	//			"topic": "High-dimensional statistics"
+	//		},
+	//		{
+	//			"topic": "Optimization"
+	//		}
 		],
 		"abstract": "Optimal estimation and inference for both the minimizer and minimum of a convex regression function under the white noise and nonparametric regression models are studied in a non-asymptotic local minimax framework, where the performance of a procedure is evaluated at individual functions. Fully adaptive and computationally efficient algorithms are proposed and sharp minimax lower bounds are given for both the estimation accuracy and expected length of confidence intervals for the minimizer and minimum. \n The non-asymptotic local minimax framework brings out new phenomena in simultaneous estimation and inference for the minimizer and minimum. We establish a novel Uncertainty Principle that provides a fundamental limit on how well the minimizer and minimum can be estimated simultaneously for any convex regression function. A similar result holds for the expected length of the confidence intervals for the minimizer and minimum."
 	},
@@ -50,6 +71,38 @@
                 "citation_url": "https://www.ran-chen.com/docs/CCZ_Convex-Minimum-Minimizer_Supplement.pdf",
                 "source": "revision under review at Annals of Statistics",
                 "use": true,
+		"topic":[
+			{
+                                "topic": "Adaptivity"
+                        },
+                        {
+                                "topic": "Confidence interval"
+                        },
+                        {
+                                "topic": "Nonparametric regression"
+                        },
+                        {
+                                "topic": "Minimax optimality"
+                        },
+                        {
+                                "topic": "Modulus of continuity"
+                        },
+                        {
+                                "topic":  "Uncertainty principle"
+                        },
+                        {
+                                "topic": "White noise model"
+                        },
+			{
+				"topic": "Optimization"
+			}
+			//                        {
+//                                "topic": "High-dimensional statistics"
+ //                       }//,
+        //              {
+        //                      "topic": "Optimization"
+        //              }
+                ],
 		"abstract": "This is the supplement to the paper ``Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles''. It is organized into four sections. Section A presents the simulation results. Section B offers a comparison between our procedures and the methods based on convexity-constrained least squares for the minimizer, along with a discussion of the connections with the classical minimax framework. Section C provides the proofs of the main results, and Section D contains the proofs of supporting technical lemmas."
 	},
 	{
@@ -57,6 +110,55 @@
 		"work_type": "Job market paper",
 		"id": 3,
 		"order": 3, 
+		"title": "Network Regression and Supervised Centrality Estimation",
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Dan Yang"
+			},
+			{
+				"name": "Wu Zhu"
+			},
+			{
+				"name": "Haipeng Shen"
+			},
+			{
+				"name": "Linda Zhao"
+			}
+		],
+		"year": 2023,
+		"citation_url": "http://ran-chen.com/docs/CCYZSZ_SuperCENT.pdf",
+		"source": "Revision at Journal of American Statistical Association",
+		"use": true,
+		"topic":[
+			{
+				"topic": "Hub centrality" 
+			},
+			{
+				"topic": "Authority centrality"
+			},
+			{
+				"topic": "Measurement error"
+			},
+			{
+				"topic": "Global trade network"
+			},
+			{
+				"topic": "Currency risk premium"
+			}
+		],
+		"abstract": "The centrality in a network is often used to measure nodes’ importance and model network effects on a certain outcome. Empirical studies widely adopt a two-stage procedure, which first estimates the centrality from the observed noisy network and then infers the network effect from the estimated centrality, even though it lacks theoretical understanding. We propose a unified modeling framework, under which we first prove the shortcomings of the two-stage procedure, including the inconsistency of the centrality estimation and the invalidity of the network effect inference. Furthermore, we propose a supervised centrality estimation methodology, which aims to simultaneously estimate both centrality and network effect. The advantages in both regards are proved theoretically and demonstrated numerically via extensive simulations and a case study in predicting currency risk premiums from the global trade network. "
+	},
+	{
+		"type": "Job market paper",
+		"work_type": "Job market paper",
+		"id": 4,
+		"order": 4, 
 		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
 		"authors": [
 			{
@@ -96,8 +198,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 3,
-		"order": 2, 
+		"id": 22,
+		"order": 22, 
 		"title": "Optimal Estimation and Inference for Minimizer and Minimum of Multivariate Additive Convex Function",
 		"authors": [
 			{
@@ -112,6 +214,27 @@
 		"use": true,
 		"topic":[
 			{
+                                "topic": "Adaptivity"
+                        },
+                        {
+                                "topic": "Confidence interval"
+                        },
+                        {
+                                "topic": "Nonparametric regression"
+                        },
+                        {
+                                "topic": "Minimax optimality"
+                        },
+                        {
+                                "topic": "Modulus of continuity"
+                        },
+                        {
+                                "topic":  "Uncertainty principle"
+                        },
+                        {
+                                "topic": "White noise model"
+                        },
+			{
 				"topic": "High-dimensional statistics"
 			},
 			{
@@ -123,8 +246,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 4,
-		"order": 3, 
+		"id": 21,
+		"order": 21, 
 		"title": "Interplay Between Statistical Accuracy and Running Time Cost: A Framework and Three Cases",
 		"authors": [
 			{
@@ -150,8 +273,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 5,
-		"order": 4, 
+		"id": 25,
+		"order": 25, 
 		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
 		"authors": [
 			{
@@ -178,10 +301,10 @@
 		"abstract": "Estimating heterogeneous treatment effect is an important task in causal inference with wide application fields. It has also attracted increasing attention from machine learning community in recent years. In this work, we reinterpret the heterogeneous treatment effect estimation and propose ways to borrow strength from neural networks. We analyze the strengths and drawbacks of integrating neural networks into heterogeneous treatment effect estimation and clarify the aspects that need to be taken into consideration when designing a specific network. We proposed a specific network under our guidelines. In simulations, we show that our network performs better when the structure of data is complex, and reach a draw under the cases where other methods could be proved to be optimal."
 	},
 	{
-		"type": "Working paper",
-		"work_type": "Working paper",
-		"id": 6,
-		"order": 31, 
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 23,
+		"order": 23, 
 		"title": "Personalized Reinforcement Learing: With Application to Business",
 		"authors": [
 			{
@@ -216,10 +339,57 @@
 		"abstract": ""
 	},
 	{
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 24,
+		"order": 24, 
+		"title": "Optimal Assortment and Pricing with Novel Poisson Arrival MNL Models",
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Qitao Huang"
+			},
+			{
+				"name": "Martin Wainwright"
+			},
+			{
+				"name": "Linda Zhao"
+			},
+			{
+				"name": "Wu Zhu"
+			}
+		],
+		"year": 2023,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "Reinforcement Learning"
+			},
+			{
+				"topic": "Multinomial Logit Model"
+			},
+			{
+				"topic": "Assortment"
+			},
+			{
+				"topic": "Pricing"
+			}
+		],
+		"abstract": ""	
+	},
+	{
 		"type": "Working paper",
 		"work_type": "Working paper",
-		"id": 7,
-		"order": 32, 
+		"id": 31,
+		"order": 31, 
 		"title": "Crowdsourcing: Beyond Dawid-Skene Model",
 		"authors": [
 			{
@@ -237,8 +407,112 @@
 		"topic":[
 			{
 				"topic": "High-dimensional statistics"
+			},
+			{
+				"topic": "Crowd Sourcing"
 			}
 		],
 		"abstract": ""
+	},
+	{
+		 "type": "Working paper",
+                "work_type": "Working paper",
+                "id": 32,
+                "order": 32,
+                "title": "Tight Constrained Inequality",
+                "authors": [
+                        {
+                                "name": "Ran Chen"
+                        },
+                        {
+                                "name": "Martin Wainwright"
+                        }
+                ],
+                "year": 2023,
+                // "source": "",
+                // "citation_url": "",
+                // "cites_url": "https://arxiv.org/abs/2111.12921",
+                "use": true,
+                "topic":[
+                        {
+                                "topic": "Nonparametric statistics"
+                        },
+			{
+				"topic": "Statistical lower bounds"
+			}
+                ],
+                "abstract": ""
+	},
+	{
+		"type": "Working paper",
+                "work_type": "Working paper",
+                "id": 33,
+                "order": 33,
+                "title": "Estimation, Inference, and Ranking in Portfolio Choice Problems",
+                "authors": [
+                        {
+                                "name": "Ran Chen"
+                        },
+                        {
+                                "name": "Kent Smetters"
+                        },
+			{
+				"name": "Xingtan Zhang"
+			}
+                ],
+                "year": 2023,
+                // "source": "",
+                // "citation_url": "",
+                // "cites_url": "https://arxiv.org/abs/2111.12921",
+                "use": true,
+                "topic":[
+                        {
+                                "topic": "Portfolio choice"
+                        },
+			{
+				"topic": "Expected utility"
+			},
+                        {
+                                "topic": "Statistical estimation"
+                        },
+			{
+				"topic": "Confidence interval"
+			},
+			{
+				"topic": "Hypothesis testing"
+			}
+                ],
+                "abstract": ""
+	},
+	{
+		 "type": "Working paper",
+                "work_type": "Working paper",
+                "id": 34,
+                "order": 34,
+                "title": "On Power of Interpolation",
+                "authors": [
+                        {
+                                "name": "Ran Chen"
+                        },
+			{
+				"name": "Reese Pathak"
+			},
+                        {
+                                "name": "Martin Wainwright"
+                        }
+                ],
+                "year": 2023,
+                // "source": "",
+                // "citation_url": "",
+                // "cites_url": "https://arxiv.org/abs/2111.12921",
+                "use": true,
+                "topic":[
+                        {
+                                "topic": "Minimax Optimality"
+                        }
+
+                ],
+                "abstract": ""
 	}
+
 ]
