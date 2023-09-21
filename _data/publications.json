@@ -197,7 +197,7 @@
 		"year": 2022,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
-		// "source": "",
+		 "source": "To be submitted to Annals of Statistics",
 		"citation_url": "https://www.ran-chen.com/docs/Convex_minimax_Multivariate_AOS.pdf",
 		"use": true,
 		"topic":[
@@ -245,7 +245,7 @@
 		"year": 2022,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
-		// "source": "",
+		 "source": "To be submitted to Operations Research",
 		"citation_url": "https://www.ran-chen.com/docs/Computational_Statistical_Accuracy_OR.pdf",
 		"use": true,
 		"topic":[
