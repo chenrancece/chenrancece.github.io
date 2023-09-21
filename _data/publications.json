@@ -229,7 +229,7 @@
 				"topic": "Optimization"
 			}
 		],
-		"abstract": ""
+		"abstract": "In this paper, we consider optimal estimation and inference for the minimizer and minimum of multivariate additive convex functions under suitable non-asymptotic framework that can characterize the difficulty of the problem at individual functions. \n We provide sharp minimax lower bounds for both the estimation accuracy and expected volume (length) of confidence hypercube (interval) for the minimizer and minimum. \n We provide statistically optimal and computationally efficient algorithm for these four tasks."
 	},
 	{
 		"type": "Preprint",
