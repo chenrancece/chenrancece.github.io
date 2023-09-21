@@ -186,8 +186,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 22,
-		"order": 22, 
+		"id": 12,
+		"order": 12, 
 		"title": "Optimal Estimation and Inference for Minimizer and Minimum of Multivariate Additive Convex Function",
 		"authors": [
 			{
@@ -234,8 +234,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 21,
-		"order": 21, 
+		"id": 11,
+		"order": 11, 
 		"title": "Interplay Between Statistical Accuracy and Running Time Cost: A Framework and Three Cases",
 		"authors": [
 			{
@@ -261,8 +261,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 25,
-		"order": 25, 
+		"id": 15,
+		"order": 15, 
 		"title": "Heterogeneous Treatment Effect Estimation through Deep Learning",
 		"authors": [
 			{
@@ -291,8 +291,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 23,
-		"order": 23, 
+		"id": 13,
+		"order": 13, 
 		"title": "Personalized Reinforcement Learing: With Application to Business",
 		"authors": [
 			{
@@ -329,8 +329,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 24,
-		"order": 24, 
+		"id": 14,
+		"order": 14, 
 		"title": "Optimal Assortment and Pricing with Novel Poisson Arrival MNL Models",
 		"authors": [
 			{
@@ -376,8 +376,8 @@
 	{
 		"type": "Working paper",
 		"work_type": "Working paper",
-		"id": 31,
-		"order": 31, 
+		"id": 21,
+		"order": 21, 
 		"title": "Crowdsourcing: Beyond Dawid-Skene Model",
 		"authors": [
 			{
@@ -405,8 +405,8 @@
 	{
 		 "type": "Working paper",
                 "work_type": "Working paper",
-                "id": 32,
-                "order": 32,
+                "id": 22,
+                "order": 22,
                 "title": "Tight Constrained Inequality",
                 "authors": [
                         {
@@ -434,8 +434,8 @@
 	{
 		"type": "Working paper",
                 "work_type": "Working paper",
-                "id": 33,
-                "order": 33,
+                "id": 23,
+                "order": 23,
                 "title": "Estimation, Inference, and Ranking in Portfolio Choice Problems",
                 "authors": [
                         {
@@ -475,8 +475,8 @@
 	{
 		 "type": "Working paper",
                 "work_type": "Working paper",
-                "id": 34,
-                "order": 34,
+                "id": 24,
+                "order": 24,
                 "title": "On Power of Interpolation",
                 "authors": [
                         {
