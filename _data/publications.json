@@ -90,12 +90,6 @@
 			{
 				"topic": "Optimization"
 			}
-			//                        {
-//                                "topic": "High-dimensional statistics"
- //                       }//,
-        //              {
-        //                      "topic": "Optimization"
-        //              }
                 ],
 		"abstract": "This is the supplement to the paper Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles. It is organized into four sections. Section A presents the simulation results. Section B offers a comparison between our procedures and the methods based on convexity-constrained least squares for the minimizer, along with a discussion of the connections with the classical minimax framework. Section C provides the proofs of the main results, and Section D contains the proofs of supporting technical lemmas."
 	},
