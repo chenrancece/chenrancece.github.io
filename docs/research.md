@@ -37,7 +37,7 @@ nav_order: 2
         <div class="dropdown-menu">
           <a class="dropdown-item" href="#" onclick="categorySelector('All')">All Topics</a>
           <div role="separator" class="dropdown-divider"></div>
-          {% assign categories = "Optimization, High-dimensional statistics, Reinforcement learning, Bandit, Assortment and pricing" | split: ", " %} 
+          {% assign categories = "Optimization, High-dimensional statistics, Reinforcement learning, Bandit, Assortment and pricing, Nonparametric regression" | split: ", " %} 
           {% for category in categories %}
             <a class="dropdown-item" href="#" onclick="categorySelector('{{ category }}')">{{ category }}</a>  
           {% endfor %}
