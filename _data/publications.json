@@ -41,7 +41,10 @@
                         },
 			{
 			 	"topic": "White noise model"
-                        }
+                        },
+			{
+				"topic": "Optimization"
+			}
 		],
 		"abstract": "Optimal estimation and inference for both the minimizer and minimum of a convex regression function under the white noise and nonparametric regression models are studied in a non-asymptotic local minimax framework, where the performance of a procedure is evaluated at individual functions. Fully adaptive and computationally efficient algorithms are proposed and sharp minimax lower bounds are given for both the estimation accuracy and expected length of confidence intervals for the minimizer and minimum. \n The non-asymptotic local minimax framework brings out new phenomena in simultaneous estimation and inference for the minimizer and minimum. We establish a novel Uncertainty Principle that provides a fundamental limit on how well the minimizer and minimum can be estimated simultaneously for any convex regression function. A similar result holds for the expected length of the confidence intervals for the minimizer and minimum."
 	},
@@ -179,6 +182,9 @@
 			},
 			{
 				"topic": "Bandit"
+			},
+			{
+				"topic": "Machine learning"
 			}
 		],
 		"abstract": "Key challenges in running a retail business include how to select products to present to consumers (the assortment problem), and how to price products (the pricing problem) to maximize revenue or profit.  Instead of considering these problems in isolation, we propose a joint approach to assortment-pricing based on contextual bandits. Our model is doubly high-dimensional, in that both context vectors and actions allowed to take values in high-dimensional spaces.  In order to circumvent the curse of dimensionality, we propose a simple yet flexible model that captures the interactions between covariates and actions via a (near) low-rank representation matrix.  The resulting class of models is reasonably expressive while remaining interpretable through latent factors, and includes various structured linear bandit and pricing models as particular cases.  We propose a computationally tractable procedure that combines an exploration/exploitation protocol with an efficient low-rank matrix estimator, and we prove bounds on its regret.  Simulation results show that this method has lower regret than state-of-the-art methods applied to various standard bandit and pricing models.  We also illustrate the gains achievable using our method by two case studies on real-world assortment-pricing problems for an industry-leading instant noodles company, and a smaller beauty start-up.   In each case, we show both the gains in revenue achievable by our bandit methods, as well as the interpretability of the latent factor models that are learned."
@@ -254,7 +260,10 @@
 			},
 			{
 				"topic": "Optimization"
-			}
+			},
+			{
+                                "topic": "Machine learning"
+                        }
 		],
 		"abstract": "The popularity of iterative algorithms and the exploding availability of large data sets make the computational cost, in addition to statistical accuracy, an increasingly important concern in statistics and data science. In this paper, we propose a constructive framework that includes a theoretically solid fully implementable optimization method and gives precise quantification of how the running time influences the statistical accuracy. Our framework takes a new perspective on optimization-error-induced-statistical-error: we focus on approximated optimization problem rather than approximated solution. We show that this is more essential way to characterize optimization-statistical interplay. We showcase the power of our framework in three cases: 1-bit matrix completion and causal inference for panel data, and high-dimensional sparse linear regression. Our framework (a) filling in the blank of both theoretically guaranteed optimization algorithm and precise quantification of running-time’s influence on statistical accuracy for the first two cases; and (b) showing its adaptivity to the degenerate case with simpler setting and stronger assumptions — high-dimensional sparse linear regression. In addition, we provide a sharper statistical rate for the example of causal inference for panel data when the computational resource is assumed to be infinite."
 	},
@@ -284,7 +293,10 @@
 			},
 			{
 				"topic": "Deep learning"
-			}
+			},
+			{
+                                "topic": "Machine learning"
+                        }
 		],
 		"abstract": "Estimating heterogeneous treatment effect is an important task in causal inference with wide application fields. It has also attracted increasing attention from machine learning community in recent years. In this work, we reinterpret the heterogeneous treatment effect estimation and propose ways to borrow strength from neural networks. We analyze the strengths and drawbacks of integrating neural networks into heterogeneous treatment effect estimation and clarify the aspects that need to be taken into consideration when designing a specific network. We proposed a specific network under our guidelines. In simulations, we show that our network performs better when the structure of data is complex, and reach a draw under the cases where other methods could be proved to be optimal."
 	},
@@ -322,7 +334,10 @@
 			},
 			{
 				"topic": "Personalization"
-			}
+			},
+			{
+                                "topic": "Machine learning"
+                        }
 		],
 		"abstract": ""
 	},
@@ -366,8 +381,11 @@
 			},
 			{
 				"topic": "Assortment and pricing"
-			}
-					],
+			},
+			{
+                                "topic": "Machine learning"
+                        }
+		],
 		"abstract": ""	
 	},
 	{
@@ -395,7 +413,10 @@
 			},
 			{
 				"topic": "Crowd Sourcing"
-			}
+			},
+			{
+                                "topic": "Machine learning"
+                        }
 		],
 		"abstract": ""
 	},
