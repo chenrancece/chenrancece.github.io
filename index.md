@@ -45,7 +45,7 @@ Previously, I earned B.S. in Pure and Applied Mathematics from <a href="https://
 ## Contact
 
 - Email: [ran1chen@mit.edu](ran1chen@mit.edu)
-- Address: 32-D758, 77 Massachusetts Avenue, Cambridge, MA 02139
+- Address: 32-D607, 77 Massachusetts Avenue, Cambridge, MA 02139
 <!-- - [Google Scholar](https://scholar.google.com.hk/citations?user=k2uOCu0AAAAJ&hl=en&oi=ao)
  -->
 <br><br>
