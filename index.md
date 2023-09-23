@@ -36,6 +36,7 @@ Previously, I earned B.S. in Pure and Applied Mathematics from <a href="https://
 - Reinforcement learning
 - High-dimensional Statistics
 - Optimization
+- Revenue Management
 - Statistical Machine Learning
 - Nonparametric Statistics
 <!--- # Causal Inference --->
