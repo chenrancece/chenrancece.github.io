@@ -305,7 +305,7 @@
 		"work_type": "Preprint",
 		"id": 13,
 		"order": 13, 
-		"title": "Personalized Reinforcement Learing: With Application to Business",
+		"title": "Personalized Reinforcement Learning: With Application to Business",
 		"authors": [
 			{
 				"name": "Junhui Cai"
@@ -327,9 +327,6 @@
 		"use": true,
 		"topic":[
 			{
-				"topic": "High-dimensional statistics"
-			},
-			{
 				"topic": "Reinforcement learning"
 			},
 			{
@@ -339,7 +336,8 @@
                                 "topic": "Machine learning"
                         }
 		],
-		"abstract": ""
+//		"abstract": "Reinforcement learning, while has gained great success in low-stake fields (e.g., game), has involved a great sacrifice of interpretability, reliability, and fundamental understanding. However, the price of incorrect actions, non-interpretable procedures and model fragility is high in fields like business and healthcare. In particular, the crucial personalized information is not accounted for in the model in the hope that high-complexity and high-expressive model can somehow learn it out from the relatively scarce data. We propose a personalized reinforcement learning model encoding personalized information into the transition mechanism and reward-generating mechanism and develop an algorithm to address it. We study its performance both numerically and theoretically."
+		"abstract": "Reinforcement learning (RL), while has achieved remarkable success in low-stake fields (e.g., game), has come at expense of interpretability, reliability, and fundamental understanding. These attributes are of utmost importance in high-stake fields like business and healthcare, where ill-informed decisions can lead to significant financial losses or even loss of human lives. Particularly, the critical aspect of personalized information is often overlooked within traditional RL approaches, with the hope that complex and highly expressive models will somehow glean this information from limited data. In response to these challenges, we propose a personalized kernel embedding RL model to capture the heterogeneity in transition mechanism and reward. Our model is both expressive and interpretable. We develop an algorithm tailored for our personalized reinforcement learning model. We demonstrate the effectiveness of our algorithm through theoretical guarantee and numerical experiments."
 	},
 	{
 		"type": "Preprint",
@@ -386,7 +384,7 @@
                                 "topic": "Machine learning"
                         }
 		],
-		"abstract": ""	
+		"abstract": "MNL model is a traditional model addressing light-weight assortment problem. However, it fails to consider the dynamic nature of customer arrivals, which significantly impacts practical decision-making based on real-time periods like weeks, months, and years. To bridge this gap, we extend the MNL model by incorporating a Poisson distribution, where the arrival rate is dependent on the current assortment and pricing, thus modeling customer arrival patterns over time. The key challenge lies in balancing the popularity of the Poisson model to attract more customers and the profitability in the MNL to increase conversion and revenue for each visit so as to maximize the cumulative reward by a real-time period. We propose an efficient algorithm to jointly solve the Poisson and MNL model. We provide a non-asymptotic bound for regret and show that our algorithm is optimal up to log factors."	
 	},
 	{
 		"type": "Working paper",
@@ -418,7 +416,7 @@
                                 "topic": "Machine learning"
                         }
 		],
-		"abstract": ""
+		//"abstract": ""
 	},
 	{
 		 "type": "Working paper",
@@ -447,7 +445,7 @@
 				"topic": "Statistical lower bounds"
 			}
                 ],
-                "abstract": ""
+                //"abstract": ""
 	},
 	{
 		"type": "Working paper",
@@ -488,7 +486,7 @@
 				"topic": "Hypothesis testing"
 			}
                 ],
-                "abstract": ""
+                //"abstract": ""
 	},
 	{
 		 "type": "Working paper",
@@ -518,6 +516,6 @@
                         }
 
                 ],
-                "abstract": ""
+                //"abstract": ""
 	}
 ]
