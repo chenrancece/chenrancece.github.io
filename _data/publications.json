@@ -2,8 +2,8 @@
 	{
 		"type": "Job market paper",
 		"work_type": "Job market paper",
-		"id": 1,
-		"order": 1, 
+		"id": 2,
+		"order": 2, 
 		"title": "Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles",
 		"authors": [
 			{
@@ -50,8 +50,8 @@
 	},
 	{      "type": "Job market paper",
 		"work_type": "Job market paper",
-		"id": 2,
-                "order": 2,
+		"id": 3,
+                "order": 3,
 		"title": "Supplement Paper to Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles",
 		"authors": [
                         {
@@ -99,8 +99,8 @@
 	{
 		"type": "Job market paper",
 		"work_type": "Job market paper",
-		"id": 3,
-		"order": 3, 
+		"id": 4,
+		"order": 4, 
 		"title": "Network Regression and Supervised Centrality Estimation",
 		"authors": [
 			{
@@ -148,8 +148,8 @@
 	{
 		"type": "Job market paper",
 		"work_type": "Job market paper",
-		"id": 4,
-		"order": 4, 
+		"id": 1,
+		"order": 1, 
 		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
 		"authors": [
 			{
