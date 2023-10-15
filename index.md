@@ -33,12 +33,21 @@ Previously, I earned B.S. in Pure and Applied Mathematics from <a href="https://
 
 ## Research Interests
 
-- Reinforcement learning
-- High-dimensional Statistics
-- Optimization
+- Data-driven Decision-making
+- Reinforcement Learning
 - Revenue Management
+- Optimization
+- High-dimensional Statistics
 - Statistical Machine Learning
 - Nonparametric Statistics
+
+
+<!--- # - Reinforcement learning
+<!--- # - High-dimensional Statistics
+<!--- #- Optimization
+<!--- #- Revenue Management
+<!--- #- Statistical Machine Learning
+<!--- #- Nonparametric Statistics
 <!--- # Causal Inference --->
 
 <br>
