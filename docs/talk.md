@@ -37,7 +37,7 @@ nav_order: 3
         <h3 class="card-title">{{ talks.title }}</h3>
         {% for talk in talks.talks %}
         <h5 class="card-subtitle mb text-muted pb-1"> 
-          {{ talk.type }} {% if talk.meeting %} at {% endif %} <b>{{ talk.meeting }}</b> {% if talk.place %}, {% endif %}{{ talk.place }}, {{ talk.time }}
+          {{ talk.type }} {% if talk.meeting %} at {% endif %} <b>{{ talk.meeting }}</b>{% if talk.place %}, {% endif %}{{ talk.place }}, {{ talk.time }}
         </h5>
         <h5 class="card-text">
           {% if talk.pdf_link %}
