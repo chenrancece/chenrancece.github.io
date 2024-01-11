@@ -5,9 +5,51 @@
 		"talks": [
 			{
 				"type": "Invited talk",
+				"time": 2024,
+				"meeting": "Department of Technology, Operations, and Statistics",
+				"place": "New York University"
+			},
+			{
+				"type": "Invited talk",
+				"time": 2024,
+				"meeting": "Department of Statistics",
+				"place": "Univesity of California, Davis"
+			},
+			{
+				"type": "Invited talk",
+				"time": 2024,
+				"meeting": "Department of Statistics and Data Science",
+				"place": "Washington University in St. Louis"
+			},
+			{
+				"type": "Invited talk",
+				"time": 2024,
+				"meeting": "Department of Mathematics, Applied Mathematics, and Statistics",
+				"place": "Case Western Reserve University"
+			},
+			{
+				"type": "Invited talk",
+				"time": 2023,
+				"meeting": "Department of Statistics",
+				"place": "Univesity of Washington"
+			},
+			{
+				"type": "Invited talk",
+				"time": 2023,
+				"meeting": "Department of Statistics",
+				"place": "Harvard University"
+			},
+			{
+				"type": "Invited talk",
 				"time": 2023,
 				"meeting": "INFOMRS",
 				"place": "Phoenix, AZ, USA"
+			},
+			{
+				"type": "Invited talk",
+				"time": 2023,
+				"meeting": "Informs Business Analytics Conference",
+				"place": "Aurora, CO, USA"
 			}
 		]
 	},
@@ -20,18 +62,6 @@
 				"time": 2023,
 				"meeting": "Joint Statistical Meeting (JSM)",
 				"place": "Toronto, Canada"
-			}
-		]
-	},
-	{
-		"id": 8,
-		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
-		"talks": [
-			{
-				"type": "Invited talk",
-				"time": 2023,
-				"meeting": "Informs Business Analytics Conference",
-				"place": "Aurora, CO, USA"
 			}
 		]
 	},
