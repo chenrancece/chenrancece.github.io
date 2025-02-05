@@ -23,6 +23,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 #logo: "/assets/images/just-the-docs.png"
 # remote_theme: pmarsceill/just-the-docs
 
+url: "https://ran-chen.com"
+
 # Enable or disable the site search
 search_enabled: false
 
