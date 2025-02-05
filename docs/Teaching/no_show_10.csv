@@ -1,0 +1,11 @@
+Patient ID,Sex,Age,Schedule lag,Schedule minutes,Status
+P456,male,4,41,30,No show
+P126,female,40,29,15,No show
+P563,female,23,5,30,No show
+P884,male,22,18,30,No show
+P102,female,60,1,15,Show
+P067,male,50,17,10,Show
+P120,male,55,29,30,No show
+P943,female,70,3,30,No show
+P496,female,58,4,15,Show
+P805,male,28,2,30,No show
