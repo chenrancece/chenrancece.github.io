@@ -99,8 +99,8 @@
 	{
 		"type": "Publication",
 		"work_type": "Publication",
-		"id": 4,
-		"order": 4, 
+		"id": 26,
+		"order": 26, 
 		"title": "Network Regression and Supervised Centrality Estimation",
 		"authors": [
 			{
@@ -546,6 +546,45 @@
 				"topic": "mHealth"
 			}
 		],
-		"source": ""
+		"source": "ICML",
+		"citation_url": "https://arxiv.org/abs/2602.07767"
+	},
+	{
+		"type": "Preprint",
+		"work_type": "Preprint",
+		"id": 13,
+		"order": 13, 
+		"title": "Personalized Reinforcement Learning for Sepsis Management in ICU",
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Martin Wainwright"
+			},
+			{
+				"name": "Linda Zhao"
+			}
+		],
+		"year": 2024,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "Reinforcement learning"
+			},
+			{
+				"topic": "Personalization"
+			},
+			{
+                                "topic": "Machine learning"
+                        }
+		]	
 	}
+
 ]
