@@ -515,5 +515,44 @@
 
                 ],
                 //"abstract": ""
+	},
+	{
+		"type": "Publication",
+		"work_type": "Publication",
+		"id": 25,
+		"order": 25, 
+		"title": "BFTS: Thompson Sampling with Bayesian Additive Regression Trees",
+		"authors": [
+			{
+				"name": "Ruizhe Deng"
+			},
+			{
+				"name": "Bibhas Chakraborty"
+			},
+			{
+				"name": "Ran Chen"
+			},
+			{
+				"name": "Yanshuo Tan"
+			}
+		],
+		"year": 2026,
+		"use": true,
+		"topic":[
+			{
+				"topic": "Reinforcement Learning"
+			},
+			{
+				"topic": "Bandit"
+			},
+			{
+				"topic": "mHealth"
+			}
+		],
+//		"abstract": "Contextual bandits are a core technology for personalized mobile health interventions, where decision-making requires adapting to complex, non-linear user behaviors. While Thompson Sampling (TS) is a preferred strategy for these problems, its performance hinges on the quality of the underlying reward model. Standard linear models suffer from high bias, while neural network approaches are often brittle and difficult to tune in online settings. Conversely, tree ensembles dominate tabular data prediction but typically rely on heuristic uncertainty quantification, lacking a principled probabilistic basis for TS.
+We propose Bayesian Forest Thompson Sampling (BFTS), the first contextual bandit algorithm to integrate Bayesian Additive Regression Trees (BART), a fully probabilistic sum-of-trees model, directly into the exploration loop. 
+We prove that BFTS is theoretically sound, deriving an information-theoretic Bayesian regret bound of $\tilde{\mathcal{O}}(\sqrt{T})$. 
+As a complementary result, we establish frequentist minimax optimality for a ``feel-good'' variant, confirming the structural suitability of BART priors for non-parametric bandits. 
+Empirically, BFTS achieves state-of-the-art regret on tabular benchmarks with near-nominal uncertainty calibration.Furthermore, in an offline policy evaluation on the \textit{Drink Less} micro-randomized trial, BFTS improves engagement rates by over 30% compared to the deployed policy, demonstrating its practical effectiveness for behavioral interventions."
 	}
 ]
