@@ -200,7 +200,7 @@
 				"name": "Ran Chen"
 			}
 		],
-		"year": 2022,
+		"year": 2023,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		 "source": "To be submitted to Annals of Statistics",
@@ -248,7 +248,7 @@
 				"name": "Ran Chen"
 			}
 		],
-		"year": 2022,
+		"year": 2023,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		//"citation_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6551&context=edissertations",
 		 "source": "To be submitted to Operations Research",
@@ -552,8 +552,8 @@
 	{
 		"type": "Preprint",
 		"work_type": "Preprint",
-		"id": 13,
-		"order": 13, 
+		"id": 25,
+		"order": 25, 
 		"title": "Personalized Reinforcement Learning for Sepsis Management in ICU",
 		"authors": [
 			{
@@ -585,6 +585,64 @@
                                 "topic": "Machine learning"
                         }
 		]	
+	},
+	{
+		"type": "Working paper",
+		"work_type": "Working paper",
+		"id": 4,
+		"order": 4, 
+		"title": "Personalized Reinforcement Learning with Nonparametric Kernel Embeddings",
+		"authors": [
+			{
+				"name": "Yichneg Teng"
+			},
+			{
+				"name": "Ran Chen"
+			}
+		],
+		"year": 2026,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "Reinforcement learning"
+			},
+			{
+				"topic": "Personalization"
+			},
+			{
+                                "topic": "Machine learning"
+                        }
+		]	
+	},
+	{
+		"type": "Working paper",
+		"work_type": "Working paper",
+		"id": 27,
+		"order": 27, 
+		"title": "Convergence of Expected Suboptimality and Asymptotic Distribution of ADAM-Type Optimizers",
+		"authors": [
+			{
+				"name": "Yi Luo"
+			},
+			{
+				"name": "Haoyang Liu"
+			},
+			{
+				"name": "Ran Chen"
+			}
+		],
+		"year": 2026,
+		// "source": "",
+		// "citation_url": "",
+		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"use": true,
+		"topic":[
+			{
+				"topic": "Optimization"
+			}
+		]	
 	}
-
 ]
