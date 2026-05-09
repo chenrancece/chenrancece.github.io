@@ -39,11 +39,21 @@ permalink: /
 
 - Data-driven Decision-making
 - Reinforcement Learning
-- Revenue Management
 - Optimization
 - High-dimensional Statistics
 - Statistical Machine Learning
 - Nonparametric Statistics
+- Healthcare
+- Revenue Management
+
+
+<!--- # - Data-driven Decision-making
+<!--- # - Reinforcement Learning
+<!--- # - Revenue Management
+<!--- # - Optimization
+<!--- # - High-dimensional Statistics
+<!--- # - Statistical Machine Learning
+<!--- # - Nonparametric Statistics
 
 
 <!--- # - Reinforcement learning
