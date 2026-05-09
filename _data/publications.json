@@ -1,7 +1,7 @@
 ﻿[	
 	{
-		"type": "Job market paper",
-		"work_type": "Job market paper",
+		"type": "Publication",
+		"work_type": "Publication",
 		"id": 2,
 		"order": 2, 
 		"title": "Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles",
@@ -16,9 +16,9 @@
 				"name": "Yuancheng Zhu"
 			}
 		],
-		"year": 2021,
+		"year": 2024,
 		"citation_url": "https://www.ran-chen.com/docs/CCZ_Convex-Minimum-Minimizer.pdf",
-		"source": "To appear at Annals of Statistics",
+		"source": "Annals of Statistics",
 		"use": true,
 		"topic":[
 			{
@@ -48,8 +48,8 @@
 		],
 		"abstract": "Optimal estimation and inference for both the minimizer and minimum of a convex regression function under the white noise and nonparametric regression models are studied in a non-asymptotic local minimax framework, where the performance of a procedure is evaluated at individual functions. Fully adaptive and computationally efficient algorithms are proposed and sharp minimax lower bounds are given for both the estimation accuracy and expected length of confidence intervals for the minimizer and minimum. \n The non-asymptotic local minimax framework brings out new phenomena in simultaneous estimation and inference for the minimizer and minimum. We establish a novel Uncertainty Principle that provides a fundamental limit on how well the minimizer and minimum can be estimated simultaneously for any convex regression function. A similar result holds for the expected length of the confidence intervals for the minimizer and minimum."
 	},
-	{      "type": "Job market paper",
-		"work_type": "Job market paper",
+	{      "type": "Publication",
+		"work_type": "Publication",
 		"id": 3,
                 "order": 3,
 		"title": "Supplement Paper to Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles",
@@ -64,9 +64,9 @@
                                 "name": "Yuancheng Zhu"
                         }
                 ],
-                "year": 2021,
+                "year": 2024,
                 "citation_url": "https://www.ran-chen.com/docs/CCZ_Convex-Minimum-Minimizer_Supplement.pdf",
-                "source": "To appear at Annals of Statistics",
+                "source": "Annals of Statistics",
                 "use": true,
 		"topic":[
 			{
@@ -97,8 +97,8 @@
 		"abstract": "This is the supplement to the paper Estimation and Inference for Minimizer and Minimum of Convex Functions: Optimality, Adaptivity, and Uncertainty Principles. It is organized into four sections. Section A presents the simulation results. Section B offers a comparison between our procedures and the methods based on convexity-constrained least squares for the minimizer, along with a discussion of the connections with the classical minimax framework. Section C provides the proofs of the main results, and Section D contains the proofs of supporting technical lemmas."
 	},
 	{
-		"type": "Job market paper",
-		"work_type": "Job market paper",
+		"type": "Publication",
+		"work_type": "Publication",
 		"id": 4,
 		"order": 4, 
 		"title": "Network Regression and Supervised Centrality Estimation",
@@ -107,11 +107,12 @@
 				"name": "Junhui Cai"
 			},
 			{
-				"name": "Ran Chen"
-			},
-			{
 				"name": "Dan Yang"
 			},
+			{
+				"name": "Ran Chen"
+			},
+
 			{
 				"name": "Wu Zhu"
 			},
@@ -122,9 +123,9 @@
 				"name": "Linda Zhao"
 			}
 		],
-		"year": 2023,
+		"year": 2026,
 		"citation_url": "http://ran-chen.com/docs/CCYZSZ_SuperCENT.pdf",
-		"source": "Revision at Journal of American Statistical Association",
+		"source": "Journal of American Statistical Association",
 		"use": true,
 		"topic":[
 			{
@@ -146,8 +147,8 @@
 		"abstract": "The centrality in a network is often used to measure nodes’ importance and model network effects on a certain outcome. Empirical studies widely adopt a two-stage procedure, which first estimates the centrality from the observed noisy network and then infers the network effect from the estimated centrality, even though it lacks theoretical understanding. We propose a unified modeling framework, under which we first prove the shortcomings of the two-stage procedure, including the inconsistency of the centrality estimation and the invalidity of the network effect inference. Furthermore, we propose a supervised centrality estimation methodology, which aims to simultaneously estimate both centrality and network effect. The advantages in both regards are proved theoretically and demonstrated numerically via extensive simulations and a case study in predicting currency risk premiums from the global trade network. "
 	},
 	{
-		"type": "Job market paper",
-		"work_type": "Job market paper",
+		"type": "Publication",
+		"work_type": "Publication",
 		"id": 1,
 		"order": 1, 
 		"title": "Doubly High-Dimensional Contextual Bandits: An Interpretable Model with Applications to Assortment/Pricing",
@@ -165,10 +166,10 @@
 				"name": "Linda Zhao"
 			}
 		],
-		"year": 2023,
+		"year": 2026,
 		// "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
 		"citation_url": "https://www.ran-chen.com/docs/Assortment_Pricing_MS_Arxiv.pdf",
-		"source": "Submitted to Management Science",
+		"source": "To appear at Management Science",
 		"use": true,
 		"topic":[
 			{
@@ -344,7 +345,7 @@
 		"work_type": "Preprint",
 		"id": 14,
 		"order": 14, 
-		"title": "Optimal Assortment and Pricing with Novel Poisson Arrival MNL Models",
+		"title": "Poisson-MNL Bandit: Nearly Optimal Dynamic Joint Assortment and Pricing with Decision-Dependent Customer Arrivals",
 		"authors": [
 			{
 				"name": "Junhui Cai"
@@ -356,19 +357,15 @@
 				"name": "Qitao Huang"
 			},
 			{
-				"name": "Martin Wainwright"
-			},
-			{
 				"name": "Linda Zhao"
 			},
 			{
 				"name": "Wu Zhu"
 			}
 		],
-		"year": 2023,
-		// "source": "",
-		// "citation_url": "",
-		// "cites_url": "https://arxiv.org/abs/2111.12921",
+		"year": 2026,
+		"source": "Under review at Operations Research",
+		"citation_url": "http://ran-chen.com/docs/CCYZSZ_SuperCENT.pdf",
 		"use": true,
 		"topic":[
 			{
@@ -384,7 +381,8 @@
                                 "topic": "Machine learning"
                         }
 		],
-		"abstract": "MNL model is a traditional model addressing light-weight assortment problem. However, it fails to consider the dynamic nature of customer arrivals, which significantly impacts practical decision-making based on real-time periods like weeks, months, and years. To bridge this gap, we extend the MNL model by incorporating a Poisson distribution, where the arrival rate is dependent on the current assortment and pricing, thus modeling customer arrival patterns over time. The key challenge lies in balancing the popularity of the Poisson model to attract more customers and the profitability in the MNL to increase conversion and revenue for each visit so as to maximize the cumulative reward by a real-time period. We propose an efficient algorithm to jointly solve the Poisson and MNL model. We provide a non-asymptotic bound for regret and show that our algorithm is optimal up to log factors."	
+		//		"abstract": "MNL model is a traditional model addressing light-weight assortment problem. However, it fails to consider the dynamic nature of customer arrivals, which significantly impacts practical decision-making based on real-time periods like weeks, months, and years. To bridge this gap, we extend the MNL model by incorporating a Poisson distribution, where the arrival rate is dependent on the current assortment and pricing, thus modeling customer arrival patterns over time. The key challenge lies in balancing the popularity of the Poisson model to attract more customers and the profitability in the MNL to increase conversion and revenue for each visit so as to maximize the cumulative reward by a real-time period. We propose an efficient algorithm to jointly solve the Poisson and MNL model. We provide a non-asymptotic bound for regret and show that our algorithm is optimal up to log factors."	
+		"abstract": "We study dynamic joint assortment and pricing where a seller updates decisions at reular accounting/operating intervals to maximize the cumulative per-period revenue over a horizon $T$. In many settings, assortment and prices affect not only what an arriving customer buys but also how many customers arrive within the period, whereas classical multinomial logit (MNL) models assume arrivals as fixed, potnetially leading to suboptimal decisions. We propose a Poisson-MNL model that couples a contextual MNL choice model with a Poisson arrival model whose rate depends on the offered assortment and prices. Building on this model, we develop an efficient algorithm PMNL based on the idea of upper confidence bound (UCB). We establish its (near) optimality by proving a non-asymptotic regret bound of order $\sqrt{T\log{T}}$ and a matching lower bound (up to $\log{T}$). Simulation studies underscore the importance of accounting for the dependency of arrival rates on assortment and pricing: PMNL effectively learns customer choice and arrival models and provides joint assortment-pricing decisions that outperform other outperform others that assume fixed arrival rates."
 	},
 	{
 		"type": "Working paper",
