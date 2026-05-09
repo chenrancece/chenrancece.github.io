@@ -1,4 +1,4 @@
-﻿[	
+﻿[
 	{
 		"type": "Publication",
 		"work_type": "Publication",
@@ -379,7 +379,6 @@
                                 "topic": "Machine learning"
                         }
 		],
-		//		"abstract": "MNL model is a traditional model addressing light-weight assortment problem. However, it fails to consider the dynamic nature of customer arrivals, which significantly impacts practical decision-making based on real-time periods like weeks, months, and years. To bridge this gap, we extend the MNL model by incorporating a Poisson distribution, where the arrival rate is dependent on the current assortment and pricing, thus modeling customer arrival patterns over time. The key challenge lies in balancing the popularity of the Poisson model to attract more customers and the profitability in the MNL to increase conversion and revenue for each visit so as to maximize the cumulative reward by a real-time period. We propose an efficient algorithm to jointly solve the Poisson and MNL model. We provide a non-asymptotic bound for regret and show that our algorithm is optimal up to log factors."	
 		"abstract": "We study dynamic joint assortment and pricing where a seller updates decisions at reular accounting/operating intervals to maximize the cumulative per-period revenue over a horizon $T$. In many settings, assortment and prices affect not only what an arriving customer buys but also how many customers arrive within the period, whereas classical multinomial logit (MNL) models assume arrivals as fixed, potnetially leading to suboptimal decisions. We propose a Poisson-MNL model that couples a contextual MNL choice model with a Poisson arrival model whose rate depends on the offered assortment and prices. Building on this model, we develop an efficient algorithm PMNL based on the idea of upper confidence bound (UCB). We establish its (near) optimality by proving a non-asymptotic regret bound of order $\\sqrt{T\\log{T}}$ and a matching lower bound (up to $\\log{T}$). Simulation studies underscore the importance of accounting for the dependency of arrival rates on assortment and pricing: PMNL effectively learns customer choice and arrival models and provides joint assortment-pricing decisions that outperform other outperform others that assume fixed arrival rates."
 	},
 	{
@@ -547,10 +546,6 @@
 				"topic": "mHealth"
 			}
 		],
-//		"abstract": "Contextual bandits are a core technology for personalized mobile health interventions, where decision-making requires adapting to complex, non-linear user behaviors. While Thompson Sampling (TS) is a preferred strategy for these problems, its performance hinges on the quality of the underlying reward model. Standard linear models suffer from high bias, while neural network approaches are often brittle and difficult to tune in online settings. Conversely, tree ensembles dominate tabular data prediction but typically rely on heuristic uncertainty quantification, lacking a principled probabilistic basis for TS.
-We propose Bayesian Forest Thompson Sampling (BFTS), the first contextual bandit algorithm to integrate Bayesian Additive Regression Trees (BART), a fully probabilistic sum-of-trees model, directly into the exploration loop. 
-We prove that BFTS is theoretically sound, deriving an information-theoretic Bayesian regret bound of $\tilde{\mathcal{O}}(\sqrt{T})$. 
-As a complementary result, we establish frequentist minimax optimality for a ``feel-good'' variant, confirming the structural suitability of BART priors for non-parametric bandits. 
-Empirically, BFTS achieves state-of-the-art regret on tabular benchmarks with near-nominal uncertainty calibration.Furthermore, in an offline policy evaluation on the \textit{Drink Less} micro-randomized trial, BFTS improves engagement rates by over 30% compared to the deployed policy, demonstrating its practical effectiveness for behavioral interventions."
+		"source": ""
 	}
 ]
